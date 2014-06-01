@@ -1,1 +1,4 @@
 *.pyc
+/build/
+/dist/
+/sphinx_php.egg-info/
